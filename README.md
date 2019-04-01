@@ -1,3 +1,13 @@
+# terraform-aws-efs
+
+Terraform module that manages AWS EFS filesystem.
+
+This module creates:
+
+- EFS filesystem
+- EFS mount targets
+- Security group
+
 ## Inputs
 
 | Name | Description | Type | Default | Required |
